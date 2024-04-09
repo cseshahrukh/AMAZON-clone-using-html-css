@@ -1,0 +1,11 @@
+For icons => font awesome [search in google] 
+
+in a html file type ! enter ; boom, you get the template ! 
+
+cdnjs.com/libraries/font-awesome [content delivery network; serve the nearest searver] [copy link tag]
+
+in front awesome website 1 line code is given for each icon 
+
+to pick color use inspect or use canva color picker 
+
+.logo likhlei kintu div soho code chole ashbe 
